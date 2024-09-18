@@ -1,0 +1,5 @@
+cadena=input("insegrese una cadena ")
+cadena_mayuscula=cadena.upper()
+cadena_minuscula=cadena.casefold()
+print("la cadena en mayuscla:",cadena_mayuscula)
+print("la cadena en minuscula :",cadena_minuscula)
